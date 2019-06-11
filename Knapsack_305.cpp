@@ -1,3 +1,4 @@
+//  Implement 0/I knapsack using Greedy Approach.
 //  fractional knapsack problem
 #include<iostream>
 using namespace std;
